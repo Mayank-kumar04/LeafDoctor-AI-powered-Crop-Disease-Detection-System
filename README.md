@@ -1,17 +1,9 @@
 
-# 🌾 CropSpectra - AI-Powered Crop Disease Detection System
+# 🌾 LeafDoctor - AI-Powered Crop Disease Detection System
 
-**CropSpectra** is an intelligent crop disease prediction system that uses **Deep Learning** and **Computer Vision** to detect diseases in crops like Tomato, Potato, and Bell Pepper.
-
----
-
-🔗 **Live Deployment (Render – Free Tier):**  
-[https://your-render-app-link](https://cropspectra.onrender.com)
-
-⚠️ *Note:* Due to limited resources in Render Free Tier, live image prediction is not supported in the deployed version.
+**LeafDoctor** is an intelligent crop disease prediction system that uses **Deep Learning** and **Computer Vision** to detect diseases in crops like Tomato, Potato, and Bell Pepper.
 
 ---
-
 
 ## 🎥 Project Demo Video
 
@@ -60,7 +52,7 @@ The demo video shows:
 ## 📂 Project Structure
 
 ```
-CropSpectra/
+LeafDoctor/
 │
 ├── venv/                       # Virtual environment (pre-configured)
 ├── app.py                      # Main Flask application
@@ -136,6 +128,8 @@ Due to limited RAM and storage:
 - The deep learning model (.h5 / .pkl) cannot be fully loaded
 - Live image prediction is not supported on the deployed version
 
+### Project Deployment has ended. 
+
 ✅ The application works correctly in the local environment,  
 which is demonstrated in the provided demo video.
 
@@ -143,7 +137,7 @@ which is demonstrated in the provided demo video.
 
 ## 📧 Contact & Support
 
-📧 **Email:** cropspectra@gmail.com  
+📧 **Email:** LeafDoctor@gmail.com  
 🌍 **Website:** [CropSpectra](#)
 
 ---
@@ -159,4 +153,4 @@ which is demonstrated in the provided demo video.
 
 
 
-**© 2024 CropSpectra | Smart Vision for a Healthier Harvest 🌿**
+**© 2024 LeafDoctor | Smart Vision for a Healthier Harvest 🌿**
