@@ -135,13 +135,6 @@ which is demonstrated in the provided demo video.
 
 ---
 
-## 📧 Contact & Support
-
-📧 **Email:** LeafDoctor@gmail.com  
-🌍 **Website:** [CropSpectra](#)
-
----
-
 ## 🙏 Acknowledgments
 
 - PlantVillage Dataset
