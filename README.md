@@ -10,7 +10,7 @@
 A complete working demonstration of the project is shown in the video below.
 
 🎬 **Demo Video Link:**  
-[https://drive.google.com/your-video-link ](https://drive.google.com/file/d/1mtTWTxgSH-9ywMLUkEI0A8AfShqNm6MB/view?usp=sharing) 
+[https://drive.google.com/file/d/1mtTWTxgSH-9ywMLUkEI0A8AfShqNm6MB/view?usp=sharing] 
 
 
 The demo video shows:
